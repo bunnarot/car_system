@@ -1,0 +1,4 @@
+vhdl work "ScanDigit.vhd"
+vhdl work "CLK1ms.vhd"
+vhdl work "car.vhd"
+vhdl work "top.vhd"
